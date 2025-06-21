@@ -1,6 +1,7 @@
 # tareaAPI_productos
 API RESTful que utiliza Node.js y Express, para gestionar un listado de productos en un .json
-Tarea de Jason Daniel Velásquez Mejía - 20212000937
+
+Tarea de Jason Daniel Velásquez Mejía - 20212000937  
 Para la clase de Diseño Digital, sección 1700, Ing. Juan Enrique Alvarenga Rodas
 
 # API de Gestión de Productos
