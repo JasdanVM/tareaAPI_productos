@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "MacBook Pro M3 14''",
+    "precio": 21999,
+    "descripcion": "Laptop Apple con chip M3, 8GB RAM y 512GB SSD.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-20T14:30:00Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Dell XPS 13",
+    "precio": 18999.99,
+    "descripcion": "Ultrabook premium con pantalla InfinityEdge y procesador Intel i7.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-20T14:30:00Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Raspberry Pi 5",
+    "precio": 1650,
+    "descripcion": "Mini computadora con procesador quad-core y 8GB de RAM.",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-20T14:30:00Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Logitech MX Master 3S",
+    "precio": 1299,
+    "descripcion": "Ratón ergonómico con conectividad Bluetooth y USB-C.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-20T14:30:00Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Samsung SSD 980 Pro 1TB",
+    "precio": 2799.5,
+    "descripcion": "Unidad NVMe PCIe Gen4 con velocidades de lectura de 7000MB/s.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-20T14:30:00Z"
+  },
+  {
+    "id": 6,
+    "nombre": "Sony WH-1000XM5",
+    "precio": 4999,
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido líder en la industria.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-20T14:30:00Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Google Pixel 8 Pro",
+    "precio": 15999,
+    "descripcion": "Smartphone con cámara de 50MP y pantalla OLED de 6.7 pulgadas.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-20T14:30:00Z"
+  },
+  {
+    "id": 8,
+    "nombre": "Sony Alpha ZV-E10",
+    "precio": 11599,
+    "descripcion": "Cámara mirrorless compacta ideal para creadores de contenido, con sensor APS-C y grabación 4K.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-20T14:30:00Z"
+  },
+  {
+    "id": 9,
+    "nombre": "Amazon Echo Dot (5ta Gen)",
+    "precio": 899,
+    "descripcion": "Altavoz inteligente con Alexa y sonido mejorado.",
+    "disponible": false,
+    "fecha_ingreso": "2025-06-20T14:30:00Z"
+  }
+]
