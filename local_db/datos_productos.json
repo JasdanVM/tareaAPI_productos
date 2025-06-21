@@ -70,5 +70,13 @@
     "descripcion": "Altavoz inteligente con Alexa y sonido mejorado.",
     "disponible": false,
     "fecha_ingreso": "2025-06-20T14:30:00Z"
+  },
+  {
+    "id": 10,
+    "nombre": "Xbox Controller",
+    "precio": 1290,
+    "descripcion": "Control inalámbrico con diseño ergonómico y compatibilidad multiplataforma.",
+    "disponible": true,
+    "fecha_ingreso": "2025-06-21T06:35:21.621Z"
   }
 ]
