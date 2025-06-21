@@ -2,6 +2,7 @@
     "name": "tarea-api-productos",
     "version": "1.0.0",
     "main": "index.js",
+    "type": "module",
     "scripts": {
         "start": "node index.js",
         "test": "echo \"No tests specified\" && exit 0"
