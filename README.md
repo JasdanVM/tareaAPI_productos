@@ -47,9 +47,10 @@ http://localhost:5000
 - `DELETE .../productos/:id`  
   Elimina un producto en base al ID dado.
 
-> `GET .../productos/disponibles`  
-Muestra todos los productos que han sido marcados como Disponibles.
-También especifica el número de productos disponibles.
+> `GET .../productos/disponibles`
+
+ Muestra todos los productos que han sido marcados como Disponibles.
+ También especifica el número de productos disponibles.
 
 Al crear o actualizar un oroducto se hacen las siguientes validaciones:
 - Debe tener las propiedades de nombre, precio, y descripción
